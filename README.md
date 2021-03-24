@@ -6,8 +6,7 @@ Simple and easy to use calculator app for Android smart phones.
 
 #### Usage
 
-```
-Start tests on all devices and emulators wich can be found with 'adb devices':
+Start tests on all devices and emulators (wich can be found with 'adb devices'):
 ```
 ./gradlew spoon
 ```
