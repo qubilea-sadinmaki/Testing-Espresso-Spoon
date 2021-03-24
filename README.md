@@ -2,8 +2,7 @@
 
 #### Usage
 
-```
-Start tests on all devices and emulators wich can be found with 'adb devices':
+Start tests on all devices and emulators (which can be found with 'adb devices'):
 ```
 ./gradlew spoon
 ```
