@@ -1,9 +1,5 @@
 <h1 align="center">Simple Calculator Tests with Espresso & Spoon</h1> 
 
-<p align="center">
-Simple and easy to use calculator app for Android smart phones.
-</p>
-
 #### Usage
 
 ```
